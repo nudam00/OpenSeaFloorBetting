@@ -3,7 +3,6 @@ build/
 interfaces
 reports/
 __pycache__
-tests
 .env
 package-lock.json
 package.json
