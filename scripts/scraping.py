@@ -1,6 +1,8 @@
 from selenium import webdriver
 import time
 
+# Scraps price
+
 
 class Scraping:
     def __init__(self, url, cooldown):

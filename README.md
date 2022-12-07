@@ -1,5 +1,5 @@
 # Opensea Floor Betting
-A program that allows you to bet on whether the floor price of a given NFT collection (based on OpenSea) will hold, fall, or rise. The program is based on the Solidity, Python and brownie framework. Tested on Rinkeby.
+Program which allows betting on whether the floor price of a given NFT collection (based on OpenSea) will hold, fall, or rise. The program is based on the Solidity, Python and brownie framework. Tested on Rinkeby.
 
 ## Stakeholder.sol
 Ethereum smart contract that allows you to send ETH, bet on ETH, send a multiplier and pay out ETH (owner only).
